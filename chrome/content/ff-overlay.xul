@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="chrome://android2cloud/skin/overlay.css" type="text/css"?>
+<!DOCTYPE overlay SYSTEM "chrome://android2cloud/locale/overlay.dtd">
+<overlay id="android2cloud-overlay" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <script src="overlay.js"/>
+  <script src="ff-overlay.js"/>
+
+  <stringbundleset id="stringbundleset">
+    <stringbundle id="android2cloud-strings" src="chrome://android2cloud/locale/overlay.properties"/>
+  </stringbundleset>
+
+
+
+
+</overlay>

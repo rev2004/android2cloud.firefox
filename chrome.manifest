@@ -1,0 +1,6 @@
+content   android2cloud                 chrome/content/
+skin      android2cloud   classic/1.0   chrome/skin/
+locale    android2cloud   en-US         chrome/locale/en-US/
+
+
+overlay   chrome://browser/content/browser.xul   chrome://android2cloud/content/ff-overlay.xul

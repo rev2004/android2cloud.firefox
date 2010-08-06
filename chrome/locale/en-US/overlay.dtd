@@ -1,0 +1,8 @@
+<!ENTITY android2cloud.label "Your localized menuitem">
+<!ENTITY android2cloudContext.label "Your Menuitem">
+<!ENTITY android2cloudContext.accesskey "Y">
+<!ENTITY android2cloudToolbarButton.label "Your Toolbar Button">
+<!ENTITY android2cloudToolbarButton.tooltip "This is your toolbar button!">
+<!ENTITY android2cloudSidebar.label "Your Sidebar">
+<!ENTITY android2cloudToolbar.name  "example">
+<!ENTITY android2cloudToolbar.label "This is an example toolbar. You can hide it under View &gt; toolbars &gt; &android2cloudToolbar.name;">
